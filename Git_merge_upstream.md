@@ -2,7 +2,7 @@ github fork一个分之后，过一段时间就会和主分支的差异比较大
 
 步骤：
 
-1. git remote add upstream git@github.com:coreos/etcd.git   //本地添加远程主分支，叫upstream。可以先git branch -v查看是否已添加远程分支，若已添加，该步骤略过。
+1. git remote add upstream git@github.com:996icu/996.ICU.git   //本地添加远程主分支，叫upstream。可以先git branch -v查看是否已添加远程分支，若已添加，该步骤略过。
 
 2. git fetch upstream  // 获取主分支的最新修改到本地；
 
